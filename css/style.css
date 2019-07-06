@@ -119,6 +119,15 @@ header {
 	cursor: pointer;
 }
 
+.site-menu > a {
+	padding: 39px 30px 30px;
+	color: #e0e0e0;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
 .site-menu > a:hover {
 	background-color: #ff3f40;
 }
@@ -182,7 +191,6 @@ header {
 	box-shadow: 0 -10px 40px 0 rgb(124, 124, 124);
 }
 
-/* Services */
 .services {
 	padding-top: 106px;
 	padding-bottom: 53px;
